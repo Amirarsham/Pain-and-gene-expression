@@ -3,8 +3,7 @@
 Codes and design files used in Biology Honours research
 
 
-Project title: Pain and the social brain: evaluating the effect of a noxious stimulus on expression of the prosocial hormone, parathyroid hormone 2
-
+Project title: Evaluating the effect of a noxious stimulus on gene expression
 
 
 Lab: Erickson's Lab
