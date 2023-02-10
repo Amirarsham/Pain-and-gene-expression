@@ -1,24 +1,29 @@
 # noxious_shock
+
 Codes and design files used in Biology Honours research
 
 
-Project title: Effect of noxious stimuli( sub-lethal electric shocks) on the expression of PTH2 gene in Danio rerio
+Project title: Pain and the social brain: evaluating the effect of a noxious stimulus on expression of the prosocial hormone, parathyroid hormone 2
 
 
 
 Lab: Erickson's Lab
 
-Faculty of Biology, University of New Brunswick
+University of New Brunswick, Faculty of Biology
 
 Creator: Amirarsham Farahmand
 
 
-3D files were created in Fusion 360
+
+
+
+
 
 3D files are available in 3D_Design folder
 
-Main code and diagram of electrical connection used for the setup on a Arduino Mega is availabe in Final_Shocking_cycle_code folder
+The main shocking code on the Arduino Mega that also encrypts is in Shocking_Cycle_Code folder
 
-Code, data set, histogram for the random normally generated shocking and resting intevals are availabe at Cycle_Generation folder
+The codes for encrypting the experiment code are in Decryption folder
 
-Experiment_code_decoder.py is the code for decoding the "Experiment Code" to reveal the groups(Experiment code makes it double blind) 
+Code, data set, and histogram for the random normally distributed shocking and resting intevals are availabe in Cycle_Generator folder
+
